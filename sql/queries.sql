@@ -1,5 +1,4 @@
 # noinspection SqlResolveForFile
-
 # noinspection SqlNoDataSourceInspectionForFile
 
 -- revising-the-select-query
