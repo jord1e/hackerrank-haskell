@@ -1,0 +1,20 @@
+matching-specific-string hackerrank
+matching-anything-but-new-line ^...\....\....\....$
+matching-whitespace-non-whitespace-character \S\S\s\S\S\s\S\S
+matching-word-non-word \w{3}\W\w{10}\W\w{3}
+matching-start-end ^\d\w{4}\.$
+matching-specific-characters ^[123][120][xs0][30Aa][xsu][.,]$
+excluding-specific-characters ^\D[^aeiou][^bcDF][^ \n\t\r\f][^AEIOU][^,.]$
+matching-range-of-characters ^[a-z][1-9][^a-z][^A-Z][A-Z]
+matching-one-or-more-repititions ^\d+[A-Z]+[a-z]+$
+matching-ending-items ^[a-zA-Z]*s$
+matching-digits-non-digit-character \d\d\D\d\d\D\d{4}
+matching-x-repetitions ^[a-zA-Z02468]{40}[13579\s]{5}$
+matching-zero-or-more-repetitions ^\d\d+[a-z]*[A-Z]*$
+matching-x-y-repetitions ^\d{1,2}[a-zA-Z]{3,}\.{,3}$
+
+
+
+
+
+
