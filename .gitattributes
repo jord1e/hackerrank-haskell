@@ -1,2 +1,2 @@
 # https://github.com/github/linguist#overrides
-*.sql linguist-language=SQL
+*.sql linguist-detectable linguist-language=SQL
